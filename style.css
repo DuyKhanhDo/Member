@@ -104,3 +104,10 @@ header {
 .member-content-right-list th {
     border: 1px solid #008080; /* Add border style */
 }
+
+.mt-2{
+    margin-top: 20px;
+}
+.mt-1{
+    margin-top: 10px;
+}
